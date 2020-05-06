@@ -1,0 +1,22 @@
+{
+    "name": "ggf/pe2gc",
+    "description": "Берет события с PrimaEPR и записывает их в Гуглокалендарь",
+    "type": "project",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/GGF/php-primaERP.git"
+        }
+    ],
+    "require": {
+        "vitexsoftware/primaerp": "dev-bugfix"
+    },
+    "license": "CC BY",
+    "minimum-stability" : "dev",
+    "authors": [
+        {
+            "name": "GGF",
+            "email": "ggf@ggf.name"
+        }
+    ]
+}
