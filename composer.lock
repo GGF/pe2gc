@@ -324,7 +324,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/GGF/php-primaERP.git",
-                "reference": "a3ebac33fc812efcb49d619ed71a20b462a34dc7"
+                "reference": "4a426cb5001add2189ad571273f057f87d3e182e"
             },
             "require": {
                 "ext-curl": "*",
@@ -361,7 +361,7 @@
                 }
             ],
             "description": "PHP Based Library for easy interaction with primaERP api",
-            "time": "2020-05-05T17:35:06+00:00"
+            "time": "2020-05-06T06:35:30+00:00"
         }
     ],
     "packages-dev": [],
